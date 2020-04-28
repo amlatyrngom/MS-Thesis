@@ -1,0 +1,2 @@
+Output, Typename, NumOps, NumCols, PartialThreshold, SelVecThreshold
+Threshold, LogicalProjection, 0, 0, 0.5, 0.9

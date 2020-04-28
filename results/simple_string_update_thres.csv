@@ -1,0 +1,2 @@
+Output, Typename, NumOps, NumCols, PartialThreshold, SelVecThreshold
+Threshold, StringFilter, 0, 0, 0.95, 0.95

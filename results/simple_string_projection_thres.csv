@@ -1,0 +1,2 @@
+Output, Typename, NumOps, NumCols, PartialThreshold, SelVecThreshold
+Threshold, String, 0, 0, 0.9, 1
