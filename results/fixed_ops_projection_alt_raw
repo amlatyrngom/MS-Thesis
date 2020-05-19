@@ -1,0 +1,272 @@
+Output, Typename, NumOps, NumCols, PartialThreshold, SelVecThreshold
+Threshold, int64, 20, 1, 0.2, 0.2
+[2020-05-18 21:32:47.232] [I] FULL
+[2020-05-18 21:34:16.994] [I] PARTIAL
+[2020-05-18 21:35:22.403] [I] SELVEC
+Output, Typename, NumOps, NumCols, Select, FullBitmap, PartialBitmap, SelVec
+Individual, int64, 20, 10, 0, 5805.8, 77.076, 29.3224
+Individual, int64, 20, 10, 0.05, 5807.82, 660.179, 609.136
+Individual, int64, 20, 10, 0.1, 5803.83, 1415.37, 1200
+Individual, int64, 20, 10, 0.15, 5809.94, 1787.7, 1532.07
+Individual, int64, 20, 10, 0.2, 5801.63, 2407.53, 1962
+Individual, int64, 20, 10, 0.25, 5807.12, 2753.94, 2376.05
+Individual, int64, 20, 10, 0.3, 5806.64, 2912.13, 2725.38
+Individual, int64, 20, 10, 0.35, 5798.68, 3285.74, 3011.48
+Individual, int64, 20, 10, 0.4, 5808.46, 3642.37, 3148.79
+Individual, int64, 20, 10, 0.45, 5803.3, 3929.92, 3393.75
+Individual, int64, 20, 10, 0.5, 5804.47, 4228.57, 3818.55
+Individual, int64, 20, 10, 0.55, 5812.88, 4547.01, 4131.75
+Individual, int64, 20, 10, 0.6, 5799.55, 4702.17, 4410.93
+Individual, int64, 20, 10, 0.65, 5808.59, 5169.45, 4758.41
+Individual, int64, 20, 10, 0.7, 5803.68, 5424.3, 4988.98
+Individual, int64, 20, 10, 0.75, 5807.31, 5850.29, 5255.1
+Individual, int64, 20, 10, 0.8, 5814.91, 6220.74, 5573.01
+Individual, int64, 20, 10, 0.85, 5805.98, 6515.72, 5895.73
+Individual, int64, 20, 10, 0.9, 5807.77, 6919.57, 6221
+Individual, int64, 20, 10, 0.95, 5805.93, 7251.29, 6520.52
+Individual, int64, 20, 10, 1, 5813.31, 7454.41, 6888.08
+Output, Typename, NumOps, NumCols, PartialThreshold, SelVecThreshold
+Threshold, int64, 20, 10, 0.75, 0.85
+[2020-05-18 21:36:18.019] [I] FULL
+[2020-05-18 21:38:00.108] [I] PARTIAL
+[2020-05-18 21:39:06.197] [I] SELVEC
+Output, Typename, NumOps, NumCols, Select, FullBitmap, PartialBitmap, SelVec
+Individual, int64, 20, 9, 0, 6630.66, 76.3681, 29.3286
+Individual, int64, 20, 9, 0.05, 6624.88, 811.233, 583.714
+Individual, int64, 20, 9, 0.1, 6636.35, 1330.83, 1134.49
+Individual, int64, 20, 9, 0.15, 6630.64, 1719.9, 1508.89
+Individual, int64, 20, 9, 0.2, 6626.5, 2180.02, 1973.79
+Individual, int64, 20, 9, 0.25, 6626.5, 2546.77, 2386.98
+Individual, int64, 20, 9, 0.3, 6630.09, 2840.75, 2752.21
+Individual, int64, 20, 9, 0.35, 6635.09, 3225.08, 2982.08
+Individual, int64, 20, 9, 0.4, 6624.87, 3657.69, 3176.85
+Individual, int64, 20, 9, 0.45, 6644.07, 4016.11, 3602.23
+Individual, int64, 20, 9, 0.5, 6634.52, 4254.78, 3954.23
+Individual, int64, 20, 9, 0.55, 6637.56, 4596.13, 4268.57
+Individual, int64, 20, 9, 0.6, 6634.18, 4954.56, 4546.81
+Individual, int64, 20, 9, 0.65, 6633.07, 5414.83, 4881.88
+Individual, int64, 20, 9, 0.7, 6632.53, 5546.27, 5258.5
+Individual, int64, 20, 9, 0.75, 6632.21, 6030.22, 5686.86
+Individual, int64, 20, 9, 0.8, 6633.85, 6261.06, 5955.85
+Individual, int64, 20, 9, 0.85, 6632.45, 6542.02, 6229.29
+Individual, int64, 20, 9, 0.9, 6647.93, 7004.3, 6524.88
+Individual, int64, 20, 9, 0.95, 6630.3, 7310, 6879.43
+Individual, int64, 20, 9, 1, 6639.65, 7719.31, 7338.97
+Output, Typename, NumOps, NumCols, PartialThreshold, SelVecThreshold
+Threshold, int64, 20, 9, 0.9, 0.95
+[2020-05-18 21:40:04.094] [I] FULL
+[2020-05-18 21:40:31.045] [I] PARTIAL
+[2020-05-18 21:41:32.552] [I] SELVEC
+Output, Typename, NumOps, NumCols, Select, FullBitmap, PartialBitmap, SelVec
+Individual, int64, 20, 8, 0, 1528.28, 76.6498, 29.3085
+Individual, int64, 20, 8, 0.05, 1534.03, 703.743, 527.231
+Individual, int64, 20, 8, 0.1, 1543.71, 1176.09, 969.407
+Individual, int64, 20, 8, 0.15, 1542.63, 1543.57, 1427.04
+Individual, int64, 20, 8, 0.2, 1531.77, 1960.04, 1760.49
+Individual, int64, 20, 8, 0.25, 1546.94, 2335.28, 2093.32
+Individual, int64, 20, 8, 0.3, 1547.65, 2730.67, 2471.32
+Individual, int64, 20, 8, 0.35, 1543.64, 3080.73, 2746.07
+Individual, int64, 20, 8, 0.4, 1537.17, 3414.57, 3041.33
+Individual, int64, 20, 8, 0.45, 1531.85, 3646.69, 3296.89
+Individual, int64, 20, 8, 0.5, 1536.21, 4044.38, 3661.12
+Individual, int64, 20, 8, 0.55, 1538.06, 4248.38, 3830.54
+Individual, int64, 20, 8, 0.6, 1543.94, 4464.5, 4127.35
+Individual, int64, 20, 8, 0.65, 1534.97, 4835.02, 4487.58
+Individual, int64, 20, 8, 0.7, 1544.56, 5210.47, 4724.66
+Individual, int64, 20, 8, 0.75, 1539.8, 5371.41, 5126.17
+Individual, int64, 20, 8, 0.8, 1527.62, 5869.84, 5210.75
+Individual, int64, 20, 8, 0.85, 1527.63, 6124.87, 5603.34
+Individual, int64, 20, 8, 0.9, 1532.14, 6579.06, 5897.01
+Individual, int64, 20, 8, 0.95, 1545.1, 6902.12, 6268.93
+Individual, int64, 20, 8, 1, 1546.79, 7237.37, 6713.8
+Output, Typename, NumOps, NumCols, PartialThreshold, SelVecThreshold
+Threshold, int64, 20, 8, 0.15, 0.2
+[2020-05-18 21:42:25.088] [I] FULL
+[2020-05-18 21:42:49.694] [I] PARTIAL
+[2020-05-18 21:43:46.899] [I] SELVEC
+Output, Typename, NumOps, NumCols, Select, FullBitmap, PartialBitmap, SelVec
+Individual, int64, 20, 7, 0, 1377.19, 76.568, 29.3398
+Individual, int64, 20, 7, 0.05, 1375.14, 582.888, 463.847
+Individual, int64, 20, 7, 0.1, 1376.32, 1127.67, 1015.2
+Individual, int64, 20, 7, 0.15, 1375.11, 1370.72, 1242.66
+Individual, int64, 20, 7, 0.2, 1374.72, 1732.46, 1667.72
+Individual, int64, 20, 7, 0.25, 1379.52, 2210.15, 1856.18
+Individual, int64, 20, 7, 0.3, 1383.75, 2489.33, 2161.59
+Individual, int64, 20, 7, 0.35, 1374.3, 2733.95, 2523.45
+Individual, int64, 20, 7, 0.4, 1384.43, 2961.53, 2761.91
+Individual, int64, 20, 7, 0.45, 1381.65, 3344.22, 3024.44
+Individual, int64, 20, 7, 0.5, 1372.83, 3674.43, 3395.98
+Individual, int64, 20, 7, 0.55, 1368.86, 3918.37, 3617.17
+Individual, int64, 20, 7, 0.6, 1368.68, 4377.31, 3759.77
+Individual, int64, 20, 7, 0.65, 1376.05, 4545.5, 4035.22
+Individual, int64, 20, 7, 0.7, 1387.73, 4936.08, 4409.75
+Individual, int64, 20, 7, 0.75, 1377.76, 5151.54, 4670.13
+Individual, int64, 20, 7, 0.8, 1370.66, 5471.88, 4909.98
+Individual, int64, 20, 7, 0.85, 1387.58, 5806.28, 5204.73
+Individual, int64, 20, 7, 0.9, 1390.13, 6109.09, 5484.84
+Individual, int64, 20, 7, 0.95, 1382.09, 6403.76, 5823.51
+Individual, int64, 20, 7, 1, 1375.42, 6493.57, 6232.71
+Output, Typename, NumOps, NumCols, PartialThreshold, SelVecThreshold
+Threshold, int64, 20, 7, 0.2, 0.2
+[2020-05-18 21:44:35.344] [I] FULL
+[2020-05-18 21:44:57.762] [I] PARTIAL
+[2020-05-18 21:45:54.025] [I] SELVEC
+Output, Typename, NumOps, NumCols, Select, FullBitmap, PartialBitmap, SelVec
+Individual, int64, 20, 6, 0, 1236.21, 76.1656, 29.3451
+Individual, int64, 20, 6, 0.05, 1233.04, 572.909, 443.882
+Individual, int64, 20, 6, 0.1, 1229.45, 927.438, 771.061
+Individual, int64, 20, 6, 0.15, 1229.17, 1337.66, 1220.92
+Individual, int64, 20, 6, 0.2, 1225.13, 1818.18, 1624.47
+Individual, int64, 20, 6, 0.25, 1226.55, 2099.7, 1813.51
+Individual, int64, 20, 6, 0.3, 1226.72, 2520.87, 2252.97
+Individual, int64, 20, 6, 0.35, 1231.97, 2671.14, 2430.01
+Individual, int64, 20, 6, 0.4, 1234.9, 3126.69, 2684.38
+Individual, int64, 20, 6, 0.45, 1230.7, 3330.52, 2922.08
+Individual, int64, 20, 6, 0.5, 1231.81, 3690.68, 3169.15
+Individual, int64, 20, 6, 0.55, 1228.92, 3965.05, 3356.15
+Individual, int64, 20, 6, 0.6, 1223.87, 4111.66, 3705.62
+Individual, int64, 20, 6, 0.65, 1224.56, 4374.7, 3694.31
+Individual, int64, 20, 6, 0.7, 1219.79, 4690.48, 4089.75
+Individual, int64, 20, 6, 0.75, 1228.61, 5092.57, 4378.8
+Individual, int64, 20, 6, 0.8, 1235.24, 5301.84, 4646.4
+Individual, int64, 20, 6, 0.85, 1235.31, 5697.72, 4897.79
+Individual, int64, 20, 6, 0.9, 1227.37, 6001.31, 5250.04
+Individual, int64, 20, 6, 0.95, 1234.37, 6277.69, 5505.93
+Individual, int64, 20, 6, 1, 1241.35, 6432.51, 5796.89
+Output, Typename, NumOps, NumCols, PartialThreshold, SelVecThreshold
+Threshold, int64, 20, 6, 0.15, 0.2
+[2020-05-18 21:46:39.924] [I] FULL
+[2020-05-18 21:46:59.846] [I] PARTIAL
+[2020-05-18 21:47:50.471] [I] SELVEC
+Output, Typename, NumOps, NumCols, Select, FullBitmap, PartialBitmap, SelVec
+Individual, int64, 20, 5, 0, 1051.09, 76.5844, 29.3439
+Individual, int64, 20, 5, 0.05, 1054.79, 510.344, 341.43
+Individual, int64, 20, 5, 0.1, 1059.54, 891.231, 661.703
+Individual, int64, 20, 5, 0.15, 1064.97, 1199.62, 1112.59
+Individual, int64, 20, 5, 0.2, 1061.44, 1493.41, 1476.39
+Individual, int64, 20, 5, 0.25, 1057.91, 1903.04, 1579.52
+Individual, int64, 20, 5, 0.3, 1061.43, 2168.04, 1923.74
+Individual, int64, 20, 5, 0.35, 1069.12, 2471.64, 2086.59
+Individual, int64, 20, 5, 0.4, 1065.62, 2740.95, 2254.84
+Individual, int64, 20, 5, 0.45, 1068.45, 3030.1, 2538.33
+Individual, int64, 20, 5, 0.5, 1061.58, 3047.92, 2774.41
+Individual, int64, 20, 5, 0.55, 1060.26, 3424.34, 2895.9
+Individual, int64, 20, 5, 0.6, 1055.92, 3723.61, 3078.67
+Individual, int64, 20, 5, 0.65, 1063.18, 4035.37, 3396.09
+Individual, int64, 20, 5, 0.7, 1062.96, 4213.22, 3566.33
+Individual, int64, 20, 5, 0.75, 1067.84, 4575.54, 3702.52
+Individual, int64, 20, 5, 0.8, 1061.56, 4777.92, 3975.14
+Individual, int64, 20, 5, 0.85, 1064.53, 5065.29, 4277.41
+Individual, int64, 20, 5, 0.9, 1069.38, 5380.92, 4522.59
+Individual, int64, 20, 5, 0.95, 1066.76, 5636.32, 4831.47
+Individual, int64, 20, 5, 1, 1065.08, 5729.16, 5148.77
+Output, Typename, NumOps, NumCols, PartialThreshold, SelVecThreshold
+Threshold, int64, 20, 5, 0.15, 0.15
+[2020-05-18 21:48:30.513] [I] FULL
+[2020-05-18 21:48:49.436] [I] PARTIAL
+[2020-05-18 21:49:42.523] [I] SELVEC
+Output, Typename, NumOps, NumCols, Select, FullBitmap, PartialBitmap, SelVec
+Individual, int64, 20, 4, 0, 994.271, 45.389, 29.3889
+Individual, int64, 20, 4, 0.05, 1002.3, 415.265, 391.431
+Individual, int64, 20, 4, 0.1, 997.831, 840.433, 798.081
+Individual, int64, 20, 4, 0.15, 998.822, 1321.6, 1150.1
+Individual, int64, 20, 4, 0.2, 993.802, 1640.93, 1371.04
+Individual, int64, 20, 4, 0.25, 1001.5, 1876.84, 1642.32
+Individual, int64, 20, 4, 0.3, 1004.19, 2264.97, 2003.48
+Individual, int64, 20, 4, 0.35, 1002.95, 2651.26, 2229.25
+Individual, int64, 20, 4, 0.4, 998.221, 2860.29, 2561.9
+Individual, int64, 20, 4, 0.45, 999.002, 3040.05, 2731.21
+Individual, int64, 20, 4, 0.5, 995.697, 3356.6, 2986.19
+Individual, int64, 20, 4, 0.55, 997.654, 3713.1, 3167.23
+Individual, int64, 20, 4, 0.6, 993.017, 3957.33, 3371.35
+Individual, int64, 20, 4, 0.65, 996.915, 4269.12, 3694.89
+Individual, int64, 20, 4, 0.7, 998.329, 4457.61, 3811.4
+Individual, int64, 20, 4, 0.75, 1002.74, 4855.62, 4049.37
+Individual, int64, 20, 4, 0.8, 997.587, 5108.69, 4300.64
+Individual, int64, 20, 4, 0.85, 1000.38, 5438.66, 4567.24
+Individual, int64, 20, 4, 0.9, 1001.01, 5717.64, 4803.08
+Individual, int64, 20, 4, 0.95, 1001.96, 5909.68, 5060.34
+Individual, int64, 20, 4, 1, 995.407, 6028.75, 5342.6
+Output, Typename, NumOps, NumCols, PartialThreshold, SelVecThreshold
+Threshold, int64, 20, 4, 0.15, 0.15
+[2020-05-18 21:50:25.076] [I] FULL
+[2020-05-18 21:50:42.676] [I] PARTIAL
+[2020-05-18 21:51:36.213] [I] SELVEC
+Output, Typename, NumOps, NumCols, Select, FullBitmap, PartialBitmap, SelVec
+Individual, int64, 20, 3, 0, 912.348, 76.2281, 29.3847
+Individual, int64, 20, 3, 0.05, 915.314, 428.985, 265.907
+Individual, int64, 20, 3, 0.1, 909.277, 920.322, 744.052
+Individual, int64, 20, 3, 0.15, 913.171, 1234.23, 1067.12
+Individual, int64, 20, 3, 0.2, 909.6, 1474.52, 1374.64
+Individual, int64, 20, 3, 0.25, 911.733, 1897.77, 1690.78
+Individual, int64, 20, 3, 0.3, 908.65, 2221.53, 1994.81
+Individual, int64, 20, 3, 0.35, 910.306, 2525.04, 2326.41
+Individual, int64, 20, 3, 0.4, 910.515, 2879.26, 2362.89
+Individual, int64, 20, 3, 0.45, 913.794, 3134.34, 2749.53
+Individual, int64, 20, 3, 0.5, 914.259, 3397.84, 2927.19
+Individual, int64, 20, 3, 0.55, 914.536, 3739.11, 3109.16
+Individual, int64, 20, 3, 0.6, 911.742, 4062.27, 3355.91
+Individual, int64, 20, 3, 0.65, 917.509, 4299.63, 3595.64
+Individual, int64, 20, 3, 0.7, 913.743, 4550.08, 3787.07
+Individual, int64, 20, 3, 0.75, 913.553, 4877.99, 4022.8
+Individual, int64, 20, 3, 0.8, 908.791, 5152.19, 4274.79
+Individual, int64, 20, 3, 0.85, 910.742, 5543.91, 4524.03
+Individual, int64, 20, 3, 0.9, 907.676, 5736.32, 4805.08
+Individual, int64, 20, 3, 0.95, 910.714, 6075.5, 5102.88
+Individual, int64, 20, 3, 1, 910.977, 6219.67, 5331.09
+Output, Typename, NumOps, NumCols, PartialThreshold, SelVecThreshold
+Threshold, int64, 20, 3, 0.1, 0.15
+[2020-05-18 21:52:18.335] [I] FULL
+[2020-05-18 21:52:32.605] [I] PARTIAL
+[2020-05-18 21:53:10.795] [I] SELVEC
+Output, Typename, NumOps, NumCols, Select, FullBitmap, PartialBitmap, SelVec
+Individual, int64, 20, 2, 0, 687.879, 42.62, 29.2869
+Individual, int64, 20, 2, 0.05, 687.602, 230.809, 178.431
+Individual, int64, 20, 2, 0.1, 685.868, 558.243, 434.786
+Individual, int64, 20, 2, 0.15, 687.537, 904.795, 708.242
+Individual, int64, 20, 2, 0.2, 685.617, 1131.85, 913.378
+Individual, int64, 20, 2, 0.25, 689.238, 1395.49, 1104.44
+Individual, int64, 20, 2, 0.3, 687.13, 1569.14, 1319.36
+Individual, int64, 20, 2, 0.35, 693.58, 1842.52, 1541.45
+Individual, int64, 20, 2, 0.4, 689.03, 2069.17, 1640.89
+Individual, int64, 20, 2, 0.45, 695.696, 2228.47, 1854.26
+Individual, int64, 20, 2, 0.5, 688.314, 2413.55, 2004.66
+Individual, int64, 20, 2, 0.55, 694.656, 2566.73, 2109.73
+Individual, int64, 20, 2, 0.6, 691.241, 2802.17, 2233.89
+Individual, int64, 20, 2, 0.65, 690.289, 2888.57, 2337.19
+Individual, int64, 20, 2, 0.7, 689.266, 3083.25, 2445.13
+Individual, int64, 20, 2, 0.75, 691.733, 3293.07, 2594.74
+Individual, int64, 20, 2, 0.8, 688.618, 3527.32, 2761.36
+Individual, int64, 20, 2, 0.85, 689.708, 3688.51, 2878.5
+Individual, int64, 20, 2, 0.9, 688.741, 3876.49, 3020.39
+Individual, int64, 20, 2, 0.95, 692.112, 4089.81, 3163.69
+Individual, int64, 20, 2, 1, 692.163, 4323.66, 3311.79
+Output, Typename, NumOps, NumCols, PartialThreshold, SelVecThreshold
+Threshold, int64, 20, 2, 0.15, 0.15
+[2020-05-18 21:53:38.308] [I] FULL
+[2020-05-18 21:53:54.531] [I] PARTIAL
+[2020-05-18 21:54:38.602] [I] SELVEC
+Output, Typename, NumOps, NumCols, Select, FullBitmap, PartialBitmap, SelVec
+Individual, int64, 20, 1, 0, 812.686, 44.2348, 29.3029
+Individual, int64, 20, 1, 0.05, 818.139, 382.124, 277.947
+Individual, int64, 20, 1, 0.1, 813.032, 536.601, 473.906
+Individual, int64, 20, 1, 0.15, 820.67, 952.051, 718.793
+Individual, int64, 20, 1, 0.2, 816.382, 1048.16, 936.102
+Individual, int64, 20, 1, 0.25, 820.667, 1440.94, 1204.13
+Individual, int64, 20, 1, 0.3, 817.356, 1661.37, 1488.88
+Individual, int64, 20, 1, 0.35, 824.139, 1923.33, 1643.88
+Individual, int64, 20, 1, 0.4, 820.846, 2351.59, 1966.62
+Individual, int64, 20, 1, 0.45, 824.836, 2559.52, 2123.74
+Individual, int64, 20, 1, 0.5, 821.164, 2808.33, 2296.21
+Individual, int64, 20, 1, 0.55, 825.317, 3090.06, 2529.14
+Individual, int64, 20, 1, 0.6, 821.417, 3280.55, 2793.43
+Individual, int64, 20, 1, 0.65, 825.33, 3559.78, 2943.39
+Individual, int64, 20, 1, 0.7, 821.014, 3708.07, 3214.1
+Individual, int64, 20, 1, 0.75, 824.675, 4022.04, 3448.78
+Individual, int64, 20, 1, 0.8, 821.628, 4244.44, 3612.08
+Individual, int64, 20, 1, 0.85, 824.436, 4488.38, 3794.29
+Individual, int64, 20, 1, 0.9, 820.81, 4767.46, 4010.53
+Individual, int64, 20, 1, 0.95, 824.848, 4961.66, 4263.78
+Individual, int64, 20, 1, 1, 821.084, 5101.43, 4485.02
+Output, Typename, NumOps, NumCols, PartialThreshold, SelVecThreshold
+Threshold, int64, 20, 1, 0.15, 0.2

@@ -1,0 +1,11 @@
+Output, Typename, NumOps, NumCols, PartialThreshold, SelVecThreshold
+Threshold, int64, 20, 10, 0.75, 0.85
+Threshold, int64, 20, 9, 0.9, 0.95
+Threshold, int64, 20, 8, 0.15, 0.2
+Threshold, int64, 20, 7, 0.2, 0.2
+Threshold, int64, 20, 6, 0.15, 0.2
+Threshold, int64, 20, 5, 0.15, 0.15
+Threshold, int64, 20, 4, 0.15, 0.15
+Threshold, int64, 20, 3, 0.1, 0.15
+Threshold, int64, 20, 2, 0.15, 0.15
+Threshold, int64, 20, 1, 0.15, 0.2
